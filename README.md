@@ -3,10 +3,10 @@ Personalisation &amp; setup
 
 Useful links :
 
-Online Masterclasse :
+Online Masterclass :
 https://www.udemy.com/course/git-and-github-masterclass
 
 Git shell coloring  :
-https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html#colors
-
 https://gist.github.com/vratiu/9780109
+
+https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html#colors
